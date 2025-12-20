@@ -3,8 +3,8 @@
 
 AWCC-style telecom support AI agent portfolio: bundles, APN/settings, troubleshooting, RAG + citations, DB-grounded USSD codes, and CSV→PPT automation.
 
-**Demo video:** <add-link>  
-**Live demo (optional):** <add-link>
+**Demo video:** https://drive.google.com/drive/folders/1otbcA6my9PFb-Dbyd86d9FMx0Kbcvyk6?usp=drive_link
+**Live demo:** coming soon...
 
 ---
 
@@ -26,9 +26,8 @@ AWCC-style telecom support AI agent portfolio: bundles, APN/settings, troublesho
 ## Screenshots
 > (Add 2–4 images max)
 
-![Telecom Agent UI](docs/ui-chat.png)
-![Bundle Recommendation](docs/ui-recommendation.png)
-![CSV to PPT Bot](docs/ui-csv-to-ppt.png)
+![Telecom Agent UI](docs/chat-ui1.png)
+![Bundle Recommendation](docs/chat-ui3.png)
 
 ---
 
